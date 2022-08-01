@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: java-web-app-container
-    image: dockersampath/webpage:latest
+    image: dockersampath/webpage:1.0
     ports:
     - containerPort: 80
 ---
